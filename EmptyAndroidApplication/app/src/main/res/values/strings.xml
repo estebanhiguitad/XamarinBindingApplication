@@ -1,0 +1,4 @@
+<resources>
+    <string name="activity_name_from_binding">From Binding</string>
+    <string name="from_binding">From Binding!</string>
+</resources>
